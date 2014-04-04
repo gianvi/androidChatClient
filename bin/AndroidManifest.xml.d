@@ -1,2 +1,2 @@
-/Users/fase/git/androidclientchat/bin/AndroidManifest.xml : \
-/Users/fase/git/androidclientchat/AndroidManifest.xml \
+/Users/fase/git/androidChatClient/bin/AndroidManifest.xml : \
+/Users/fase/git/androidChatClient/AndroidManifest.xml \
