@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">freem</string>
+    <string name="read">Letto</string>
+    <string name="compose">Componi</string>
+    <string name="compose_title">Nuovo messaggio</string>
+    <string name="hint_phone_number">Numero del destinatario</string>
+    <string name="hint_message">Testo del messaggio</string>
+    <string name="contacts">Rubrica</string>
+    <string name="send">Invia</string>
+    <string name="missing_phone_number">Numero non specificato</string>
+    <string name="missing_message">Messaggio non specificato</string>
+    <string name="send_dialog_title">Invio in corso</string>
+    <string name="send_dialog_message">Attendere, invio in corso&#8230;</string>
+    <string name="send_toast_success">Messaggio inviato</string>
+    <string name="send_toast_unknown_recipient">Impossibile inviare: il destinatario non usa freem</string>
+    <string name="send_toast_error">Invio fallito. Riprovare.</string>
+    <string name="notification_title">Freem</string>
+    <string name="notification_text">Hai nuovi messaggi</string>
+    <string name="registration_title">Registrazione a freem</string>
+    <string name="registration_description">Registrati per iniziare ad utilizzare freem. Imposta l\'indirizzo del server freem e conferma il tuo numero di telefono.</string>
+    <string name="registration_field_server_address">L\'indirizzo del server freem:</string>
+    <string name="registration_field_phone_number">Il tuo numero di telefono:</string>
+    <string name="registration_button_register">Registrati!</string>
+    <string name="registration_toast_missing_server_address">Specificare l\'indirizzo del server</string>
+    <string name="registration_toast_invalid_server_address">Indirizzo del server non valido</string>
+    <string name="registration_toast_missing_phone_number">Specificare il numero di telefono</string>
+    <string name="registration_toast_invalid_phone_number">Numero non valido (es. +393772567889)</string>
+    <string name="registration_toast_error">Si \u00E8 verificato un errore. Riprovare.</string>
+    <string name="registration_dialog_title">Registrazione in corso</string>
+    <string name="registration_dialog_message">Attendere, registrazione in corso&#8230;</string>
+
+</resources>

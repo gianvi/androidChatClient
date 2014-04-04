@@ -1,0 +1,24 @@
+# view AndroidManifest.xml #generated:56
+-keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class freem.android.ComposeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class freem.android.GCMIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class freem.android.MessagesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:70
+-keep class freem.android.MessagesContentProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class freem.android.RegistrationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class freem.android.RetrieveMessagesService { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class freem.android.ThreadsActivity { <init>(...); }
+
